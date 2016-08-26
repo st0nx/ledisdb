@@ -12,15 +12,15 @@
 			"Rev": "056c9bc7be7190eaa7715723883caffa5f8fa3e4"
 		},
 		{
-			"ImportPath": "github.com/cupcake/rdb",
+			"ImportPath": "github.com/st0nx/rdb",
 			"Rev": "3454dcabd33cb8ea8261ffd6a45f4d836eb504cc"
 		},
 		{
-			"ImportPath": "github.com/cupcake/rdb/crc64",
+			"ImportPath": "github.com/st0nx/rdb/crc64",
 			"Rev": "3454dcabd33cb8ea8261ffd6a45f4d836eb504cc"
 		},
 		{
-			"ImportPath": "github.com/cupcake/rdb/nopdecoder",
+			"ImportPath": "github.com/st0nx/rdb/nopdecoder",
 			"Rev": "3454dcabd33cb8ea8261ffd6a45f4d836eb504cc"
 		},
 		{

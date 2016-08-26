@@ -6,8 +6,8 @@ package rdb
 import "fmt"
 
 import (
-	"github.com/cupcake/rdb"
-	"github.com/cupcake/rdb/nopdecoder"
+	"github.com/st0nx/rdb"
+	"github.com/st0nx/rdb/nopdecoder"
 )
 
 func DecodeDump(p []byte) (interface{}, error) {

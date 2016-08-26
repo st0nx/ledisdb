@@ -3,7 +3,7 @@ package rdb
 import (
 	"bytes"
 	"fmt"
-	"github.com/cupcake/rdb"
+	"github.com/st0nx/rdb"
 )
 
 func Dump(obj interface{}) ([]byte, error) {
